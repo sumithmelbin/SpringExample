@@ -1,0 +1,2 @@
+create table student(int reg);
+insert into student values(111);

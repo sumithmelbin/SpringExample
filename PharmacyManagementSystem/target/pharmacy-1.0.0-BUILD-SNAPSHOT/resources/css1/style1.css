@@ -1,0 +1,325 @@
+/*for test.jsp*/
+.doctornavigation {
+	margin: 0 auto;
+	height: 76%;
+	width: 80%;
+	top: 15%;
+	rigth: 350px;
+	position: relative;
+	background-color: white;
+}
+
+.navigation1 {
+	margin: 0 auto;
+	height: 36%;
+	width: 25%;
+	top: 15%;
+	position: relative;
+	right: 450px;
+	background: url(../img/hospital_image4.jpg) 0 0 no-repeat;
+	background-color: red;
+}
+
+.navigation2 {
+	margin: 0 auto;
+	height: 84%;
+	width: 95%;
+	top: 13%;
+	position: relative; //
+	right: 450px;
+	background: url(../img/hospital_image.jpg) 0 0 no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; //
+	background-color: #85a3e0;
+	background-repeat: no-repeat;
+	background-size: cover;;
+}
+/*for login table in test.jsp*/
+.divloginfortable1 {
+	margin: 0 auto;
+	height: 36%;
+	width: 25%;
+	top: -20%;
+	position: relative; //
+	right: 10px;
+	left: 10px;
+	background: url(../img/pharm.jpg) 0 0 no-repeat;
+	background-color: green;
+}
+
+.divloginfortable2 {
+	margin: 0 auto;
+	height: 36%;
+	width: 25%;
+	top: -55%;
+	position: relative;
+	right: 50px;
+	left: 450px;
+	background: url(../img/lab1.jpg) 0 0 no-repeat;
+	background-color: yellow;
+}
+
+.table {
+	border-radius: 25px; //
+	border: 2px solid #d9d9d9; //
+	padding: 30px;
+	width: 60px;
+	height: 120px;
+}
+/*form button design*/
+.button { //
+	border-radius: 20px;
+	margin: 9px 6px;
+	padding: 8px 50px;
+	font-size: 19px; //
+	border-radius: 20px;
+	background-color: black;
+	color: white;
+}
+/*form text box design*/
+.text {
+	margin: 9px 6px;
+	padding: 10px 38px;
+	font-size: 18px;
+	font-style: normal;
+	font-family: serif;
+}
+/*form label design*/
+.label {
+	font-size: 16px;
+	color: black;
+	font-style: normal;
+	display: block;
+	width: 50px;
+	float: left;
+	margin-top: 20px;
+}
+
+.error {
+	color: #ff0000;
+}
+
+.errorblock {
+	color: red; //
+	background-color: #ffEEEE; //
+	border: 3px solid #ff0000;
+	padding: 5px;
+	margin: 16px;
+	font-size: 20px;
+}
+
+.heading {
+	color: red;
+	font-size: 20px;
+}
+
+.doctor1 {
+	margin: 0 auto;
+	height: 46%;
+	width: 80%;
+	top: 10%;
+	right: 10px;
+	position: relative;
+	margin-color: blue; //
+	background-color: yellow;
+}
+
+.doctor2 {
+	margin: 0 auto;
+	height: 84%;
+	width: 90%;
+	top: 12%;
+	left: 13px;
+	position: relative;
+	margin-color: blue;
+	background-color: red;
+}
+
+.doctorlist {
+	color: white;
+}
+
+.doctorcontact1 {
+	position: absolute;
+	width: 38%;
+	height: 800px;
+	margin-top: 0px;
+	left: 70px;
+	margin-top: -790px;
+	background: rgba(0, 0, 0, 0.51);
+}
+
+.doctorcontact2 {
+	position: absolute;
+	width: 50%;
+	height: 800px;
+	margin-top: 0px;
+	right: 92px;
+	margin-top: -790px;
+	background: rgba(0, 0, 0, 0.51);
+}
+
+.linkdoctor {
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 10px 10px;
+	margin: 1px;
+	border-color: 2px;
+	display: block;
+	text-align: center;
+	background-color: grey;
+}
+
+.nursenavigation1 {
+	margin: 0 auto;
+	height: 84%;
+	width: 70%;
+	top: 12%;
+	position: relative;
+	background-color: #85a3e0;
+	right: 1px;
+}
+
+.nursenavigation2 {
+	margin: 0 auto;
+	height: 84%;
+	width: 90%;
+	top: 12%;
+	position: relative;
+	background-color: #85a3e0;
+	left: 10px;
+}
+
+.nursenavigation3 {
+	margin: 0 auto;
+	height: 84%;
+	width: 90%;
+	top: 12%;
+	position: relative;
+	background-color: #85a3e0;
+	left: 20px;
+}
+
+.nurseasses {
+	margin: 0 auto;
+	height: 66%;
+	width: 40%;
+	top: -61%;
+	padding-right: 1100px;
+	position: relative;
+	margin-color: blue;
+	background-color: red;
+	right: 100px;
+}
+
+headstyle {
+	list-style-type: square;
+	text-align: center;
+}
+
+.nursecontact1 {
+	position: absolute;
+	width: 100%;
+	height: 800px;
+	margin-top: 0px;
+	left: 0px;
+	margin-top: -790px;
+	background: rgba(0, 0, 0, 0.80);
+}
+
+.nursecontact2 {
+	position: absolute;
+	width: 100%;
+	height: 800px;
+	margin-top: 0px;
+	margin-top: -790px;
+	background: rgba(0, 0, 0, 0.51);
+}
+
+.nursecontact3 {
+	position: absolute;
+	width: 100%;
+	height: 800px;
+	margin-top: 0px;
+	margin-top: -790px;
+	background: rgba(0, 0, 0, 0.51);
+}
+
+.textnurse {
+	margin: 1px 6px;
+	padding: 2px 38px;
+	font-size: 18px;
+	font-style: normal;
+	font-family: serif;
+	padding-left: 10px;
+}
+
+.labelnurse {
+	font-size: 18px;
+	color: black;
+	font-style: normal;
+	display: block;
+	width: 50px; //
+	float: left;
+	text-align: center;
+	margin-top: 9px;
+}
+
+.tablenurse {
+	padding: 30px;
+	width: 60px;
+	height: 120px;
+	font-size: 18px;
+	font-style: normal;
+}
+
+.tablenurse1 {
+	width: 80px;
+	height: 50px;
+	padding: 20px;
+	color: black;
+	font-style: normal;
+	font-size: 18px;
+}
+
+.reasoncontact {
+	position: absolute;
+	width: 100%;
+	height: 800px;
+	margin-top: 0px;
+	left: 0px;
+	margin-top: -790px;
+	background: rgba(0, 0, 0, 0.80);
+}
+
+.reasonnavigation {
+	margin: 0 auto;
+	height: 84%;
+	width: 70%;
+	top: 12%;
+	position: relative;
+	background-color: white;
+	right: 1px;
+}
+
+.textreason {
+	margin: 10px 68px;
+	padding: 8px 38px;
+	font-size: 18px;
+	font-style: normal;
+	font-family: serif;
+	padding-left: 130px;
+}
+.textmedication {
+	margin: 10px 68px;
+	padding: 8px 38px;
+	font-size: 18px;
+	font-style: normal;
+	font-family: serif;
+	padding-left: 130px;
+}
+
+.reason {
+	color: blue;
+}

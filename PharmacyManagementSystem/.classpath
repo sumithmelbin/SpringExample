@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.beans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.jdbc-3.0.0.M2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.transaction_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/org.springframework.web.servlet-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/hibernate-validator-5.0.1.final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/validation-api-1.1.0.final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/Mailjar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/Spring/Mailjar/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/javaee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/spring_security_jars_files/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/spring_security_jars_files/javax.mail-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sumith-Melbin/Desktop/JUNK/pharmacy_jar_files/spring_security_jars_files/javax.mail-api-1.4.7.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
